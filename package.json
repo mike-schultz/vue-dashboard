@@ -16,6 +16,7 @@
     "zinggrid": "^1.1.1"
   },
   "devDependencies": {
+    "@vue/babel-preset-app": "^4.5.10",
     "@vue/cli-plugin-babel": "^3.11.0",
     "@vue/cli-plugin-eslint": "^3.11.0",
     "@vue/cli-service": "^3.11.0",
